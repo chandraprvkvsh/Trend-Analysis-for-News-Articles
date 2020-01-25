@@ -1,7 +1,7 @@
 # Historical-News-Analysis
 # Brief Introduction
 
-Objective of this project is to utilize the news articles dataset containing the entire corpus of articles published over a decade and highlight the important episodes shaping the last decade and how they evolved over time. 
+Objective of this project was to utilize the news articles dataset containing the entire corpus of articles published over a decade and highlight the important episodes shaping the last decade and how they evolved over time. 
 This project involved data cleaning, Vectorizing the dataset, Creating the required report.
 
 NLTK, Scikit-Learn,mglearn libraries were used.
