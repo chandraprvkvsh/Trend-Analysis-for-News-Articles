@@ -3,7 +3,7 @@
 Objective of this project was to utilize the news articles dataset containing the entire corpus of articles published over a decade and highlight the important episodes shaping the last decade and how they evolved over time. 
 This project involved data cleaning, Vectorizing the dataset, Creating the required report.
 
-NLTK, Scikit-Learn,mglearn libraries were used.
+NLTK, Scikit-Learn, mglearn libraries were used.
 CountVectorizer, Latent Dirichlet allocation algorithms were used.
 
 # Details of the project
