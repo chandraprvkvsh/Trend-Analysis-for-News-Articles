@@ -1,4 +1,4 @@
-# Historical-News-Analysis
+# Analyzing Trends: Clustering News Articles for Insightful Insights
 # Brief Introduction
 
 Objective of this project was to utilize the news articles dataset containing the entire corpus of articles published over a decade and highlight the important episodes shaping the last decade and how they evolved over time. 
